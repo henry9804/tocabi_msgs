@@ -62,6 +62,7 @@ add_message_files(
   matrix_3_4.msg
   WalkingCommand.msg
   FTsensor.msg
+  yhFTsensor.msg
 )
 
 ## Generate services in the 'srv' folder
